@@ -1,0 +1,18 @@
+{
+"nome":"Aline",
+"sobrenome": "Tex",
+"empresa":"Ebac",
+"pais":"Brasil",
+"endereco":"Teste",
+"numero":52,
+"cidade":"SBC",
+"estado":"São Paulo",
+"cep":"09790000",
+"telefone":1143303030,
+"email":"teste@teste.com.br",
+"informacoesadicionais":"Teste",
+"metododepagamento": "cheque" 
+
+
+}
+

@@ -1,0 +1,30 @@
+[
+
+{
+    "produto":"Abominable Hoodie", 
+    "quantidade": 1, 
+    "cor": "Blue",
+    "tamanho": "M"
+},
+
+{
+    "produto":"Beaumont Summit Kit", 
+    "quantidade": 1, 
+    "cor": "Orange",
+    "tamanho": "XS"
+},
+
+{
+    "produto":"Bruno Compete Hoodie", 
+    "quantidade": 1, 
+    "cor": "Black",
+    "tamanho": "L"
+},
+
+{
+    "produto":"Chaz Kangeroo Hoodie", 
+    "quantidade": 1, 
+    "cor": "Gray",
+    "tamanho": "S"
+}
+]
